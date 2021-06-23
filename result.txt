@@ -1,0 +1,117 @@
+Infantry kills total: 336286
+Rocket Launchers: 121076
+C-4: 66973
+Rocklet Rifle: 80224
+Tank Mines: 27879
+Crossbows: 6146
+MAX weapons: 12436
+Infantry weapons (grouped by name)**********
+Rocklet Rifle 80224 []
+C-4 61981 [C4]
+NS Decimator 42853 [Rocket Launcher]
+Tank Mine 27879 []
+Shrike 13409 [Rocket Launcher]
+ML-7 11953 [Rocket Launcher]
+S1 11142 [Rocket Launcher]
+NSX Masamune 5842 [Rocket Launcher]
+Hunter QCX 5675 [Crossbow]
+C-4 ARX 4992 [C4]
+NS Annihilator  4981 []
+NC15 Phoenix 4944 [Rocket Launcher]
+Cortium Bomb 4046 []
+MANA Anti-Vehicle Turret 3877 []
+T2 Striker 3685 [Rocket Launcher]
+Nemesis VSH9 3355 [Rocket Launcher]
+Hawk GD-68 3328 [Rocket Launcher]
+MR1 Fracture 2805 [MAX]
+NS-AM7 Archer 2701 []
+NS-R3 Swarm 2492 [Rocket Launcher]
+Lancer VS22 2317 [Rocket Launcher]
+Comet VM2 2296 [MAX]
+Anti-Vehicle Grenade 2155 []
+NS Annihilator 2020 [Rocket Launcher]
+M3 Pounder HEG 1981 [MAX]
+NCM2 Falcon 1692 [MAX]
+Hades VSH4 1630 [Rocket Launcher]
+ASP-30 Grounder 1609 [Rocket Launcher]
+AF-22 Crow 1565 [Rocket Launcher]
+M9 SKEP Launcher 1521 [Rocket Launcher]
+NS "Heatwave" Decimator 1413 [Rocket Launcher]
+NCM3 Raven 1322 [MAX]
+NS Decimator-B 1237 [Rocket Launcher]
+The Kraken 1176 [Rocket Launcher]
+Vortex VM21 1153 [MAX]
+NS "Jackpot" Decimator 1081 [Rocket Launcher]
+NS Scorpion 984 [Rocket Launcher]
+NS Decimator-G 755 [Rocket Launcher]
+Grenade Printer 533 [MAX]
+Gauss Compact S 391 []
+NS-20 Gorgon 365 [MAX]
+TRAC-5 S 319 []
+Warden 310 []
+NS-AM8 Shortbow 293 []
+PSA-01 Hammerhead AMR 291 []
+Excursion Kukri 271 []
+AMR-66 254 []
+NS-10 Burster 251 [MAX]
+Solstice SF 245 []
+Eidolon VE33 238 []
+Ancient Psykinetic Blade 213 []
+Blackheart 200 [Crossbow]
+NS-R3 "Ravenous" Swarm 196 [Rocket Launcher]
+Striker AE 180 [Rocket Launcher]
+Heartstring 162 [Crossbow]
+NSX Yumi 160 []
+NC6A GODSAW 143 []
+Lancer AE 136 [Rocket Launcher]
+Gauss Rifle S 122 []
+Nightshade 103 []
+Phoenix AE 97 [Rocket Launcher]
+T1S Cycler 83 []
+NS Annihilator-B 77 [Rocket Launcher]
+Hunter QCX-G 61 [Crossbow]
+AM7-XOXO 61 []
+NS Annihilator-G 57 [Rocket Launcher]
+Hunter QCX-B 48 [Crossbow]
+NSX-A Kuwa 48 []
+NS-AM7 AE/NC Archer 44 []
+Spiker 37 []
+NSX "Networked" Yumi 31 []
+Equinox VE2 30 []
+NS-AM7 VS/AE Archer 27 []
+NS-AM7 AE/TR Archer 25 []
+NS-AM7G Archer 24 []
+NS-20 "Heatwave" Gorgon 23 [MAX]
+NSX-A Muramasa 22 [Rocket Launcher]
+NS-AM7B Archer 20 []
+NS-20G Gorgon 9 [MAX]
+NE-11 PML 9 []
+NS-10G Burster 4 [MAX]
+NS-10B Burster 1 [MAX]
+NS-20B Gorgon 1 [MAX]
+
+Vehicle kills: 506479
+Vehicle kills (grouped by vehicle)**********
+Lightning 138225
+Prowler 71248
+Harasser 63976
+Vanguard 61317
+Magrider 55701
+Liberator 36356
+Sunderer 23200
+Flash 12759
+Mosquito 10321
+Valkyrie 7719
+Scythe 7086
+Reaver 7064
+Ant 4860
+Colossus 4109
+Galaxy 2249
+Javelin 289
+
+Bastion Fleet Carrier kills (all weapons): 6616
+Pocket Orbitals: 1902
+Construction Orbitals: 1458
+Various base/construction turrets: 10691
+Suicide: 19214
+Friggin Magic (weapon id 0): 23098

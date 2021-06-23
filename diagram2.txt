@@ -1,0 +1,41 @@
+All[506479] Vehicle
+All[336286] Infantry
+All[62979]Misc
+
+Vehicle [330600] Tanks 
+Vehicle [70795] Air
+Vehicle [105084] Other Ground
+Tanks [138225] Lightning
+Tanks [188266] MBT
+MBT [71248] Prowler
+MBT [61317] Vanguard
+MBT [55701] Magrider
+Tanks [4109] Colossus
+Air [36356] Liberator
+Air [24471] ESF
+ESF [10321] Mosquito
+Air [7719] Valkyrie
+ESF [7086] Scythe
+ESF [7064] Reaver
+Air [2249] Galaxy
+Other Ground [63976] Harasser
+Other Ground [23200] Sunderer
+Other Ground [12759] Flash
+Other Ground [4860] ANT
+Other Ground [289] Javelin
+
+Infantry [121076] Rocket Launchers
+Infantry [80224] Rocklet Rifle
+Infantry [66973] C4
+Infantry [27879] Tank Mines
+Infantry [21552] Misc. weapons
+Infantry [12436] MAX weapons
+Infantry [6146] Crossbows
+
+
+Misc [23098] Magic (API error)
+Misc [19214] Suicide
+Misc [10691] Various base/construction turrets
+Misc [6616] Bastion
+Misc [1902] Pocket Orbital
+Misc [1458] Construction Orbital

@@ -1,0 +1,465 @@
+num_kills,weapon_name,attacker_weapon_id,vehicle,vehicle_slot_id,weapon_faction,target
+8641,C-4,432,,0,None,Sunderer
+6958,NS Decimator,50560,,0,None,Sunderer
+6688,P2-120 AP,4008,Prowler,1,TR,Sunderer
+5595,Titan-150 AP,3730,Vanguard,1,NC,Sunderer
+3990,Rocklet Rifle,804940,,0,NC,Sunderer
+3894,Supernova FPC,3460,Magrider,1,VS,Sunderer
+3840,Tank Mine,650,,0,None,Sunderer
+3634,Rocklet Rifle,804939,,0,TR,Sunderer
+3273,L100 Python AP,3105,Lightning,1,TR,Sunderer
+3231,Suicide,0,,,,Sunderer
+3007,L100 Python AP,3104,Lightning,1,NC,Sunderer
+2886,Rocklet Rifle,802768,,0,VS,Sunderer
+2361,Shrike,84,,0,NC,Sunderer
+2307,L100 Python AP,3103,Lightning,1,VS,Sunderer
+1990,ML-7,85,,0,TR,Sunderer
+1835,C75 Viper,3102,Lightning,1,TR,Sunderer
+1670,C75 Viper,3101,Lightning,1,NC,Sunderer
+1669,E540 Halberd,3709,Vanguard,2,NC,Sunderer
+1612,G20 Vulcan-H,6121,Harasser,1,TR,Sunderer
+1579,Titan-150 HEAT,3700,Vanguard,1,NC,Sunderer
+1463,S1,86,,0,VS,Sunderer
+1339,L100 Python HESH,3154,Lightning,1,NC,Sunderer
+1284,E540 Halberd,4015,Prowler,2,TR,Sunderer
+1281,P2-120 HESH,4009,Prowler,1,TR,Sunderer
+1278,NC15 Phoenix,33002,,0,NC,Sunderer
+1269,Saron HRB,3442,Magrider,2,VS,Sunderer
+1257,NS Annihilator ,50561,,0,None,Sunderer
+1226,C75 Viper,3100,Lightning,1,VS,Sunderer
+1165,C150 Dalton,5225,Liberator,2,NC,Sunderer
+1131,L100 Python HESH,3155,Lightning,1,TR,Sunderer
+1097,M96 Mjolnir-H,802900,Harasser,1,NC,Sunderer
+1067,P2-120 HEAT,4000,Prowler,1,TR,Sunderer
+1051,L100 Python HEAT,3157,Lightning,1,NC,Sunderer
+965,L100 Python HEAT,3158,Lightning,1,TR,Sunderer
+883,Hellfire Rocket Pods,4903,Mosquito,2,TR,Sunderer
+878,E540 Halberd-H,6120,Harasser,1,TR,Sunderer
+871,Supernova PC,3400,Magrider,1,VS,Sunderer
+860,Breaker Rocket Pods,4601,Reaver,2,NC,Sunderer
+845,Halberd SE,6006399,Vanguard,2,NC,Sunderer
+836,T2 Striker,34002,,0,TR,Sunderer
+803,Titan-150 HESH,3731,Vanguard,1,NC,Sunderer
+786,C150 Dalton,5226,Liberator,2,TR,Sunderer
+750,E540 Halberd,3441,Magrider,2,VS,Sunderer
+717,Hunter QCX,2308,,0,None,Sunderer
+700,MR11 Gatekeeper-H,802875,Harasser,1,TR,Sunderer
+679,NSX Masamune,804179,,0,None,Sunderer
+652,,0,,,,Sunderer
+648,Supernova VPC,3461,Magrider,1,VS,Sunderer
+644,Hornet Missiles,5051,Mosquito,2,TR,Sunderer
+639,MR11 Gatekeeper,802874,Prowler,2,TR,Sunderer
+620,C150 Dalton,5224,Liberator,2,VS,Sunderer
+603,L100 Python HEAT,3156,Lightning,1,VS,Sunderer
+597,L100 Python HESH,3153,Lightning,1,VS,Sunderer
+591,Enforcer ML85,3704,Vanguard,2,NC,Sunderer
+573,M40 Fury-F,2511,,0,NC,Sunderer
+547,AP30 Shredder,5210,Liberator,2,NC,Sunderer
+536,Hornet Missiles,4746,Reaver,2,NC,Sunderer
+527,M40 Fury-F,2512,,0,TR,Sunderer
+526,NS-R3 Swarm,802969,,0,None,Sunderer
+512,V30-F Starfall,6004752,,0,VS,Sunderer
+456,Hawk GD-68,33004,,0,NC,Sunderer
+452,Cortium Bomb,6009069,,0,None,Sunderer
+425,E540 Halberd-H,6119,Harasser,1,NC,Sunderer
+419,Halberd SE,6006398,Prowler,2,TR,Sunderer
+392,Dual Photon Pods,4301,Scythe,2,VS,Sunderer
+382,Halberd SE,6006400,Magrider,2,VS,Sunderer
+374,Spear Anti-Vehicle Phalanx Turret,705,,1,TR,Sunderer
+370,Spear Anti-Vehicle Phalanx Turret,704,,1,NC,Sunderer
+364,Hornet Missiles,4446,Scythe,2,VS,Sunderer
+347,Nemesis VSH9,35004,,0,VS,Sunderer
+345,Lancer VS22,35002,,0,VS,Sunderer
+340,C-4 ARX,800623,,0,None,Sunderer
+327,Saron HRB-H,6126,Harasser,1,VS,Sunderer
+327,Armory War Asset Orbital Strike,6009044,,0,None,Sunderer
+327,E540 Halberd-H,6118,Harasser,1,VS,Sunderer
+301,"NS ""Heatwave"" Decimator",6003611,,0,None,Sunderer
+301,AP30 Shredder,5209,Liberator,2,TR,Sunderer
+285,AP30 Shredder,5211,Liberator,2,VS,Sunderer
+277,M60-G Bulldog,2833,Sunderer,1,NC,Sunderer
+275,Spear Anti-Vehicle Phalanx Turret,703,,1,VS,Sunderer
+272,LB00 Python AP,6005068,Lightning,1,NC,Sunderer
+257,M40 Fury-H,6115,Harasser,1,VS,Sunderer
+250,Anti-Vehicle Grenade,1095,,0,None,Sunderer
+246,M3 Pounder HEG,15001,,0,TR,Sunderer
+244,AF-22 Crow,33003,,0,NC,Sunderer
+240,NS-AM7 Archer,802771,,0,None,Sunderer
+223,MR1 Fracture,16030,,0,TR,Sunderer
+222,M40 Fury-F,2510,,0,VS,Sunderer
+220,M60-G Bulldog,2836,Sunderer,2,NC,Sunderer
+217,MR1 Fracture,16031,,0,TR,Sunderer
+216,Mammoth Cannon,6008734,,0,NC,Sunderer
+211,,6010049,,,,Sunderer
+210,Orbital Strike Uplink,6002524,,0,NC,Sunderer
+202,Orbital Strike Uplink,6002525,,0,TR,Sunderer
+202,The Flail,6004445,,0,NC,Sunderer
+201,M60-G Bulldog,2834,Sunderer,1,TR,Sunderer
+192,Mammoth Cannon,6008735,,0,TR,Sunderer
+189,The Kraken,1964,,0,None,Sunderer
+185,NCM2 Falcon,16001,,0,NC,Sunderer
+179,Halberd-H SE,6006401,Harasser,1,TR,Sunderer
+178,M3 Pounder HEG,15013,,0,TR,Sunderer
+178,M9 SKEP Launcher,34003,,0,TR,Sunderer
+174,M20 Basilisk,2804,Sunderer,1,NC,Sunderer
+172,NS Decimator-B,802300,,0,None,Sunderer
+171,The Flail,6004444,,0,TR,Sunderer
+170,M20 Mustang,4600,Reaver,1,NC,Sunderer
+170,M60-G Bulldog,2832,Sunderer,1,VS,Sunderer
+167,MANA Anti-Vehicle Turret,503,,0,None,Sunderer
+166,"NS ""Jackpot"" Decimator",6004407,,0,None,Sunderer
+166,Hades VSH4,35003,,0,VS,Sunderer
+159,NCM2 Falcon,16013,,0,NC,Sunderer
+158,RAM/Roadkill,0,,,,Sunderer
+157,MANA Anti-Vehicle Turret,502,,0,TR,Sunderer
+155,Skyguard,3107,Lightning,1,NC,Sunderer
+145,M20 Basilisk,2805,Sunderer,1,TR,Sunderer
+140,G30 Vulcan,4029,Prowler,2,TR,Sunderer
+139,Enforcer ML65-H,6123,Harasser,1,NC,Sunderer
+137,CAS30 Tank Buster,5216,Liberator,1,NC,Sunderer
+136,LB00 Python AP,6005069,Lightning,1,TR,Sunderer
+133,M96 Mjolnir,802899,Vanguard,2,NC,Sunderer
+133,Rocklet Rifle,6005191,,0,None,Sunderer
+132,Skyguard,3108,Lightning,1,TR,Sunderer
+131,NCM3 Raven,16028,,0,NC,Sunderer
+130,Bastion Battery,6009038,,0,None,Sunderer
+130,NCM3 Raven,16029,,0,NC,Sunderer
+130,Aphelion VEX-4H,802898,Harasser,1,VS,Sunderer
+127,Spear Anti-Vehicle Phalanx Tower,803431,,0,VS,Sunderer
+125,Spear Anti-Vehicle Phalanx Tower,803432,,0,NC,Sunderer
+125,ASP-30 Grounder,34004,,0,TR,Sunderer
+125,C75 Viper,6005302,Lightning,1,NSO,Sunderer
+122,Orbital Strike Uplink,6002526,,0,VS,Sunderer
+121,NS Decimator-G,802299,,0,None,Sunderer
+121,Halberd-H SE,6006402,Harasser,1,NC,Sunderer
+119,M18 Needler,4900,Mosquito,1,TR,Sunderer
+119,Saron Laser Cannon,4302,Scythe,1,VS,Sunderer
+116,Spear Anti-Vehicle Phalanx Tower,803434,,1,None,Sunderer
+116,Bastion Battery,6009037,,0,None,Sunderer
+115,Bastion Battery,6009039,,0,None,Sunderer
+115,L100 Python AP,6005299,Lightning,1,NSO,Sunderer
+112,Gauss Compact S,7172,,0,NC,Sunderer
+112,Mauler Cannon,6009006,,0,None,Sunderer
+111,Bastion Battery,6008910,,0,None,Sunderer
+109,Bastion Battery,6008911,,0,None,Sunderer
+107,LA7 Buzzard,6004753,,0,NC,Sunderer
+107,Bastion Battery,6008929,,0,None,Sunderer
+105,Skyguard,3106,Lightning,1,VS,Sunderer
+105,LB00 Python AP,6005070,Lightning,1,VS,Sunderer
+104,M20 Basilisk,2803,Sunderer,1,VS,Sunderer
+103,Mauler Cannon,6009005,,0,None,Sunderer
+103,MANA Anti-Vehicle Turret,501,,0,NC,Sunderer
+103,Bastion Battery,6009036,,0,None,Sunderer
+102,Mauler Cannon,6009008,,0,None,Sunderer
+101,Vortex VM21,16033,,0,VS,Sunderer
+99,P525 Marauder-H,6122,Harasser,1,TR,Sunderer
+99,M60-G Bulldog,803495,Ant,2,NC,Sunderer
+96,Comet VM2,17001,,0,VS,Sunderer
+96,Mauler Cannon,6009007,,0,None,Sunderer
+90,CAS30 Tank Buster,5217,Liberator,1,TR,Sunderer
+88,M20 Basilisk,2811,Sunderer,2,TR,Sunderer
+88,Mammoth Cannon,6003420,,0,VS,Sunderer
+87,Bastion Battery,6008930,,0,None,Sunderer
+87,M4-F Pillager,6004754,,0,TR,Sunderer
+81,M20 Basilisk,2810,Sunderer,2,NC,Sunderer
+81,L100 Python HEAT,6005300,Lightning,1,NSO,Sunderer
+79,M60-G Bulldog,803494,Ant,2,VS,Sunderer
+79,Vortex VM21,16032,,0,VS,Sunderer
+76,M60-G Bulldog,803496,Ant,2,TR,Sunderer
+75,A30 Walker,5213,Liberator,10,NC,Sunderer
+72,Mauler Cannon,6009001,,0,None,Sunderer
+71,L105 Zephyr,5228,Liberator,2,NC,Sunderer
+71,M60-G Bulldog,2835,Sunderer,2,VS,Sunderer
+70,C85 Canister-H,6124,Harasser,1,NC,Sunderer
+67,M20 Basilisk,3702,Vanguard,2,NC,Sunderer
+66,M30 Mustang AH,4605,Reaver,1,NC,Sunderer
+65,M60-G Bulldog,2837,Sunderer,2,TR,Sunderer
+65,L105 Zephyr,5229,Liberator,2,TR,Sunderer
+65,M14 Banshee,4906,Mosquito,1,TR,Sunderer
+64,TRAC-5 S,7192,,0,TR,Sunderer
+64,"NS-R3 ""Ravenous"" Swarm",6002637,,0,None,Sunderer
+64,M60-G Bulldog-H,6112,Harasser,1,VS,Sunderer
+61,L105 Zephyr,5227,Liberator,2,VS,Sunderer
+59,Mauler Cannon,6009003,,0,None,Sunderer
+59,Mauler Cannon,6009004,,0,None,Sunderer
+59,The Flail,6004400,,0,VS,Sunderer
+59,Aphelion VEX-4 ,802897,Magrider,2,VS,Sunderer
+58,Excursion Kukri,6009854,,0,None,Sunderer
+57,Warden,24008,,0,NC,Sunderer
+56,M20 Basilisk,2809,Sunderer,2,VS,Sunderer
+53,Mauler Cannon,6009002,,0,None,Sunderer
+51,Comet VM2,17013,,0,VS,Sunderer
+50,G30 Walker,3082,Sunderer,1,TR,Sunderer
+50,M60-G Bulldog-H,6113,Harasser,1,NC,Sunderer
+50,Halberd-H SE,6006397,Harasser,1,VS,Sunderer
+49,CAS30 Tank Buster,5215,Liberator,1,VS,Sunderer
+49,Mauler Cannon,6008907,,0,None,Sunderer
+49,VLG Missile Launcher,6564,Valkyrie,1,TR,Sunderer
+48,M20 Basilisk-H,6105,Harasser,1,TR,Sunderer
+47,AMR-66,25008,,0,TR,Sunderer
+47,G30 Walker,6108,Harasser,1,TR,Sunderer
+45,G30 Walker,3085,Sunderer,2,TR,Sunderer
+44,Solstice SF,7213,,0,VS,Sunderer
+44,Bastion Battery,6009043,,0,None,Sunderer
+44,Mauler Cannon,6008906,,0,None,Sunderer
+43,M60-G Bulldog-H,6114,Harasser,1,TR,Sunderer
+43,Lancer AE,268,,0,VS,Sunderer
+43,Bastion Battery,6009042,,0,None,Sunderer
+41,Eidolon VE33,26008,,0,VS,Sunderer
+40,M40 Fury,2874,Sunderer,1,VS,Sunderer
+40,Bastion Battery,6009040,,0,None,Sunderer
+39,G30 Walker,3084,Sunderer,2,NC,Sunderer
+37,Hyena Missile Launcher,5495,Liberator,10,NC,Sunderer
+36,M40 Fury,803492,Ant,2,NC,Sunderer
+36,Proton II PPA-H,6125,Harasser,1,VS,Sunderer
+36,Mauler Cannon,6008908,,0,None,Sunderer
+36,M60-A Bulldog,5222,Liberator,10,NC,Sunderer
+36,CAS 14-E,6555,Valkyrie,1,TR,Sunderer
+36,Coyote Missiles,5052,Mosquito,2,TR,Sunderer
+35,A30 Walker,5214,Liberator,10,TR,Sunderer
+35,Ancient Psykinetic Blade,6008651,,0,None,Sunderer
+34,M20 Basilisk,4002,Prowler,2,TR,Sunderer
+33,Vortek Rotary,4604,Reaver,1,NC,Sunderer
+33,G30 Walker,3703,Vanguard,2,NC,Sunderer
+33,M18 Rotary,4911,Mosquito,1,TR,Sunderer
+33,Striker AE,267,,0,TR,Sunderer
+32,M20 Basilisk,803503,Ant,2,TR,Sunderer
+32,Grenade Printer,6008686,,0,NSO,Sunderer
+31,M40 Fury,2878,Sunderer,2,NC,Sunderer
+30,M40 Fury,2877,Sunderer,2,VS,Sunderer
+30,Mauler Cannon,6008909,,0,None,Sunderer
+30,G30 Walker,803487,Ant,2,TR,Sunderer
+29,M20 Wyvern,6551,Valkyrie,1,NC,Sunderer
+29,VLG Missile Launcher,6562,Valkyrie,1,VS,Sunderer
+29,M40 Fury,2876,Sunderer,1,TR,Sunderer
+28,M40 Fury-H,6117,Harasser,1,TR,Sunderer
+28,NS-AM8 Shortbow,6004992,,0,None,Sunderer
+28,Bastion Battery,6009041,,0,None,Sunderer
+28,G30 Walker,3081,Sunderer,1,NC,Sunderer
+28,Proton II PPA,3404,Magrider,2,VS,Sunderer
+28,G30 Walker,3083,Sunderer,2,VS,Sunderer
+27,Hellion G20,6556,Valkyrie,1,VS,Sunderer
+27,PSA-01 Hammerhead AMR,6008496,,0,None,Sunderer
+27,CAS 14-E,6554,Valkyrie,1,NC,Sunderer
+26,M18 Locust,5050,Mosquito,1,TR,Sunderer
+26,Bastion CIWS,6008928,,0,None,Sunderer
+25,Bastion CIWS,6008905,,0,None,Sunderer
+25,M60-A Bulldog,5221,Liberator,10,VS,Sunderer
+25,M40 Fury-H,6116,Harasser,1,NC,Sunderer
+25,Light PPA,4305,Scythe,1,VS,Sunderer
+24,M60-A Bulldog,5523,Galaxy,11,TR,Sunderer
+24,NSX Yumi,804246,,0,None,Sunderer
+24,M40 Fury,2875,Sunderer,1,NC,Sunderer
+24,M20 Wyvern,6552,Valkyrie,1,TR,Sunderer
+23,M75 Fang,6009274,,0,NC,Sunderer
+23,VLG Missile Launcher,6563,Valkyrie,1,NC,Sunderer
+23,G30 Walker,803486,Ant,2,NC,Sunderer
+21,M20 Wyvern,6550,Valkyrie,1,VS,Sunderer
+21,V26 Maelstrom Turbo Laser,4304,Scythe,1,VS,Sunderer
+21,G40-F Ranger,4010,Prowler,2,TR,Sunderer
+21,Pelter Rocket Pod,6561,Valkyrie,1,TR,Sunderer
+21,M202 Wyrm,6006063,Mosquito,2,TR,Sunderer
+21,LB00 Python AP,6008684,Lightning,1,NSO,Sunderer
+20,NEST Launcher,6008733,Javelin,3,None,Sunderer
+20,Antares LC,4445,Scythe,1,VS,Sunderer
+20,Coyote Missiles,4747,Reaver,2,NC,Sunderer
+20,G30 Walker,3080,Sunderer,1,VS,Sunderer
+20,A30 Walker,5212,Liberator,10,VS,Sunderer
+20,Xiphos Anti-Personnel Phalanx Tower,803600,,0,TR,Sunderer
+19,M40 Fury-F,6005167,,0,NSO,Sunderer
+19,G30 Walker,4003,Prowler,2,TR,Sunderer
+19,M20 Basilisk-H,6104,Harasser,1,NC,Sunderer
+19,Xiphos Anti-Personnel Phalanx Turret,552,,2,NC,Sunderer
+18,M40 Fury,803493,Ant,2,TR,Sunderer
+17,G40-F Ranger,3708,Vanguard,2,NC,Sunderer
+17,Hyena Missile Launcher,5496,Liberator,10,TR,Sunderer
+17,Hellion G20,6557,Valkyrie,1,NC,Sunderer
+17,M20 Gecko,6009227,,0,NC,Sunderer
+16,M60-A Bulldog,5223,Liberator,10,TR,Sunderer
+16,L100 Python HESH,6005301,Lightning,1,NSO,Sunderer
+16,Pelter Rocket Pod,6559,Valkyrie,1,VS,Sunderer
+16,G30 Walker,803485,Ant,2,VS,Sunderer
+16,M75 Fang,6009275,,0,NC,Sunderer
+15,Spear Anti-Vehicle Phalanx Turret,6002452,,0,TR,Sunderer
+15,G30 Walker,6107,Harasser,1,NC,Sunderer
+15,CAS 14-E,6553,Valkyrie,1,VS,Sunderer
+15,Hyena Missile Launcher,5494,Liberator,10,VS,Sunderer
+14,Bastion CIWS,6009017,,0,None,Sunderer
+14,T1S Cycler,7127,,0,TR,Sunderer
+14,Hellion G20,6558,Valkyrie,1,TR,Sunderer
+14,M20 Kestrel,4745,Reaver,1,NC,Sunderer
+13,Blackheart,2310,,0,None,Sunderer
+13,Xiphos Anti-Personnel Phalanx Tower,803599,,0,NC,Sunderer
+13,P525 Marauder,4007,Prowler,2,TR,Sunderer
+13,Phoenix AE,266,,0,NC,Sunderer
+13,M20 Basilisk-H,6103,Harasser,1,VS,Sunderer
+12,M20 Drake,5202,Liberator,10,NC,Sunderer
+12,G40-F Ranger,803490,Ant,2,TR,Sunderer
+12,NS-10 Burster,17004,,0,VS,Sunderer
+12,M20 Gecko,6009230,,0,VS,Sunderer
+12,M75 Fang,6009270,,0,TR,Sunderer
+12,Heartstring,2309,,0,None,Sunderer
+11,M202 Wyrm,6006065,Reaver,2,NC,Sunderer
+11,M20 Basilisk,803502,Ant,2,NC,Sunderer
+11,NC6A GODSAW,1879,,0,NC,Sunderer
+11,M20 Basilisk,3402,Magrider,2,VS,Sunderer
+11,M60-A Bulldog,5519,Galaxy,11,NC,Sunderer
+10,M18-2 Pincer,6009025,Mosquito,1,TR,Sunderer
+10,G30 Walker,3403,Magrider,2,VS,Sunderer
+10,M20 Basilisk,803501,Ant,2,VS,Sunderer
+10,Bastion CIWS,6009018,,0,None,Sunderer
+10,L-30R Vektor,5208,Liberator,1,VS,Sunderer
+10,M20 Gecko,6009226,,0,NC,Sunderer
+10,M75 Fang,6009271,,0,TR,Sunderer
+10,Coyote Missiles,4447,Scythe,2,VS,Sunderer
+10,G40-F Ranger,3090,Sunderer,2,NC,Sunderer
+10,G30 Walker,6106,Harasser,1,VS,Sunderer
+10,G40-F Ranger,3406,Magrider,2,VS,Sunderer
+9,M20 Basilisk-F,2508,,0,NC,Sunderer
+9,M20 Drake,5204,Liberator,10,VS,Sunderer
+9,E540 Halberd-H,6005378,Harasser,1,NSO,Sunderer
+9,M20 Gecko,6009231,,0,VS,Sunderer
+9,M20 Gecko,6008749,,0,TR,Sunderer
+9,NS Annihilator-B,802302,,0,None,Sunderer
+9,NS-20 Gorgon,804657,,0,NC,Sunderer
+9,NS-AM7 AE/NC Archer,6002943,,0,None,Sunderer
+9,Gauss Rifle S,7102,,0,NC,Sunderer
+9,Xiphos Anti-Personnel Phalanx Turret,553,,2,TR,Sunderer
+8,L-24R Spur,5219,Liberator,1,NC,Sunderer
+8,VLG Missile Launcher,6005498,Valkyrie,1,NSO,Sunderer
+8,G40-F Ranger,3087,Sunderer,1,NC,Sunderer
+8,NS-10 Burster,16004,,0,NC,Sunderer
+8,C85 Canister,3707,Vanguard,2,NC,Sunderer
+8,M20 Gecko,6009228,,0,NC,Sunderer
+8,C150 Dalton,6005464,Liberator,2,NSO,Sunderer
+8,Hunter QCX-B,2317,,0,None,Sunderer
+8,Bastion CIWS,6009021,,0,None,Sunderer
+8,NS Annihilator-G,802301,,0,None,Sunderer
+8,Pelter Rocket Pod,6003294,Galaxy,11,VS,Sunderer
+7,M40 Fury,2879,Sunderer,2,TR,Sunderer
+7,Halberd-H SE,6006403,Harasser,1,NSO,Sunderer
+7,NS-10 Burster,16016,,0,NC,Sunderer
+7,A30 Walker,5513,Galaxy,2,VS,Sunderer
+7,M20 Gecko,6009229,,0,NC,Sunderer
+7,Xiphos Anti-Personnel Phalanx Tower,803598,,0,VS,Sunderer
+7,M75 Fang,6009278,,0,VS,Sunderer
+7,Skyguard,6005303,Lightning,1,NSO,Sunderer
+6,M60-A Bulldog,5518,Galaxy,10,NC,Sunderer
+6,Spear Anti-Vehicle Phalanx Turret,6002450,,0,NC,Sunderer
+6,NS-20 Gorgon,804656,,0,NC,Sunderer
+6,M20 Drake,5200,Liberator,10,TR,Sunderer
+6,Nightshade,6006081,,0,None,Sunderer
+6,M60-A Bulldog,5522,Galaxy,10,TR,Sunderer
+6,NS-AM7B Archer,802910,,0,None,Sunderer
+6,M20 Gecko,6009232,,0,VS,Sunderer
+6,G40-F Ranger,3091,Sunderer,2,TR,Sunderer
+5,Spear Anti-Vehicle Phalanx Turret,6002451,,0,VS,Sunderer
+5,Xiphos Anti-Personnel Phalanx Turret,551,,2,VS,Sunderer
+5,M60-G Bulldog,6005433,Ant,2,NSO,Sunderer
+5,G40-F Ranger,6110,Harasser,1,NC,Sunderer
+5,Hoplon Anti-Aircraft Phalanx Tower,803596,,0,TR,Sunderer
+5,G40-F Ranger,803488,Ant,2,VS,Sunderer
+5,M40 Fury,6005237,Sunderer,1,NSO,Sunderer
+5,G40-F Ranger,6111,Harasser,1,TR,Sunderer
+5,MANA Anti-Vehicle Turret,6005425,,0,NSO,Sunderer
+5,M60-A Bulldog,5514,Galaxy,10,VS,Sunderer
+5,M20 Gecko,6008750,,0,TR,Sunderer
+5,M20 Basilisk,6005232,Sunderer,2,NSO,Sunderer
+5,Orbital Strike Uplink,6005648,,0,NSO,Sunderer
+5,Pelter Rocket Pod,6560,Valkyrie,1,NC,Sunderer
+5,A30 Walker,5512,Galaxy,1,VS,Sunderer
+5,"NSX ""Networked"" Yumi",6008665,,0,None,Sunderer
+5,Spiker,7414,,0,VS,Sunderer
+5,Mammoth Cannon,6008736,,0,NSO,Sunderer
+5,M75 Fang,6009279,,0,VS,Sunderer
+5,Pelter Rocket Pod,6003410,Galaxy,10,VS,Sunderer
+5,Dingo ML-6,6009273,,0,TR,Sunderer
+5,Equinox VE2,7151,,0,VS,Sunderer
+5,NS-20 Gorgon,804652,,0,TR,Sunderer
+5,NS-AM7 VS/AE Archer,6002918,,0,None,Sunderer
+5,L-30R Vektor,5207,Liberator,1,NC,Sunderer
+4,Bastion CIWS,6009022,,0,None,Sunderer
+4,G30 Walker,6005234,Sunderer,2,NSO,Sunderer
+4,G40-F Ranger,3089,Sunderer,2,VS,Sunderer
+4,Aspis Anti-Aircraft Phalanx Turret ,702,,1,TR,Sunderer
+4,Dingo ML-6,6009277,,0,NC,Sunderer
+4,Pelter Rocket Pod,6003296,Galaxy,11,NC,Sunderer
+4,M20 Drake,5506,Galaxy,10,NC,Sunderer
+4,NS-20 Gorgon,804654,,0,VS,Sunderer
+4,M60-A Bulldog,5515,Galaxy,11,VS,Sunderer
+4,M20 Basilisk-F,2509,,0,TR,Sunderer
+4,Dual-75 Duster,5441,Liberator,2,VS,Sunderer
+4,M202 Wyrm,6006064,Scythe,2,VS,Sunderer
+4,AM7-XOXO,6004294,,0,None,Sunderer
+4,CAS 14-E,6005495,Valkyrie,1,NSO,Sunderer
+4,NS-20 Gorgon,804653,,0,TR,Sunderer
+4,M20 Basilisk-F,2507,,0,VS,Sunderer
+4,Dual-75 Duster,5443,Liberator,2,TR,Sunderer
+4,M40 Fury,803491,Ant,2,VS,Sunderer
+3,G40-F Ranger,3086,Sunderer,1,VS,Sunderer
+3,G40-F Ranger,3088,Sunderer,1,TR,Sunderer
+3,Pelter Rocket Pod,6003398,Galaxy,10,NC,Sunderer
+3,NS-10 Burster,15004,,0,TR,Sunderer
+3,M20-W Appaloosa,6009029,Reaver,1,NC,Sunderer
+3,Hunter QCX-G,2318,,0,None,Sunderer
+3,Aspis Anti-Aircraft Phalanx Turret ,700,,1,VS,Sunderer
+3,M60-G Bulldog-H,6005384,Harasser,1,NSO,Sunderer
+3,G40-F Ranger,6109,Harasser,1,VS,Sunderer
+3,Dingo ML-6,6009280,,0,VS,Sunderer
+3,M20 Drake,5501,Galaxy,2,VS,Sunderer
+3,M20 Drake,5502,Galaxy,10,VS,Sunderer
+3,Bastion CIWS,6008903,,0,None,Sunderer
+3,L-30R Vektor,5206,Liberator,1,TR,Sunderer
+2,Hoplon Anti-Aircraft Phalanx Tower,803595,,0,NC,Sunderer
+2,G40-F Ranger,803489,Ant,2,NC,Sunderer
+2,Aspis Anti-Aircraft Phalanx Turret ,701,,1,NC,Sunderer
+2,Twin-Saron LC,6009030,Scythe,1,VS,Sunderer
+2,M20 Drake,5504,Galaxy,1,NC,Sunderer
+2,A30 Walker,5517,Galaxy,2,NC,Sunderer
+2,Dingo ML-6,6009272,,0,TR,Sunderer
+2,NS-AM7 AE/TR Archer,6002930,,0,None,Sunderer
+2,Pelter Rocket Pod,6003405,Galaxy,10,TR,Sunderer
+2,M60 Pug,6009258,,0,NC,Sunderer
+2,M20 Gecko,6008751,,0,TR,Sunderer
+2,M20 Basilisk,6005231,Sunderer,1,NSO,Sunderer
+2,Dingo ML-6,6009281,,0,VS,Sunderer
+2,L-24R Spur,5220,Liberator,1,TR,Sunderer
+2,Dual-75 Duster,5442,Liberator,2,NC,Sunderer
+2,M20 Drake,5507,Galaxy,11,NC,Sunderer
+2,A30 Walker,5520,Galaxy,1,TR,Sunderer
+2,M60-G Bulldog,6005241,Sunderer,1,NSO,Sunderer
+2,M20 Gecko,6008752,,0,TR,Sunderer
+1,NS-10 Burster,15016,,0,TR,Sunderer
+1,M20 Wyvern,6005494,Valkyrie,1,NSO,Sunderer
+1,M20 Drake,5510,Galaxy,10,TR,Sunderer
+1,M60 Pug,6009254,,0,TR,Sunderer
+1,M20 Basilisk,6005428,Ant,2,NSO,Sunderer
+1,Bastion CIWS,6008904,,0,None,Sunderer
+1,M20 Gecko,6009249,,0,NSO,Sunderer
+1,M20 Drake,5505,Galaxy,2,NC,Sunderer
+1,M60 Pug,6009262,,0,VS,Sunderer
+1,M40 Fury,6005238,Sunderer,2,NSO,Sunderer
+1,Bastion CIWS,6009020,,0,None,Sunderer
+1,"NS-20 ""Heatwave"" Gorgon",6003599,,0,TR,Sunderer
+1,M40 Fury-H,6005382,Harasser,1,NSO,Sunderer
+1,Bastion CDWS,6009023,,0,None,Sunderer
+1,Hellion G20,6005496,Valkyrie,1,NSO,Sunderer
+1,M20 Drake,5503,Galaxy,11,VS,Sunderer
+1,M20 Drake,5500,Galaxy,1,VS,Sunderer
+1,Glaive IPC,6002398,,0,TR,Sunderer
+1,NS-10 Burster,17016,,0,VS,Sunderer
+1,NS-AM7G Archer,802921,,0,None,Sunderer
+1,A30 Walker,5516,Galaxy,1,NC,Sunderer
+1,Bastion CDWS,6008901,,0,None,Sunderer
+1,NE-11 PML,6009605,,0,None,Sunderer
+1,Bastion CIWS,6009019,,0,None,Sunderer
+1,Pelter Rocket Pod,6003295,Galaxy,11,TR,Sunderer
+1,Hyena Missile Launcher,6005456,Liberator,10,NSO,Sunderer
+1,M20 Basilisk-H,6005379,Harasser,1,NSO,Sunderer
+1,Dingo ML-6,6009276,,0,NC,Sunderer
+1,NS-20 Gorgon,804655,,0,VS,Sunderer
+1,AP30 Shredder,6005463,Liberator,2,NSO,Sunderer
+1,M60 Pug,6009255,,0,TR,Sunderer
+1,A30 Walker,5521,Galaxy,2,TR,Sunderer
+1,Hoplon Anti-Aircraft Phalanx Tower,803594,,0,VS,Sunderer
+1,Hyena Missile Launcher,6003173,Galaxy,1,VS,Sunderer
